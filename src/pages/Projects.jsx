@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import spring from "../assets/spring.png";
 import react from "../assets/REACT.png";
-import esp from "../assets/esp.jpeg";
+import esp from "../assets/ESP.jpeg";
 
 function Projects() {
   const projects = [
